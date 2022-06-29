@@ -2,7 +2,11 @@
 title: "Summative Assessment 1"
 author: "Calpito, Casenas, de Leon, Lorenzo, Oba"
 date: "June 29, 2022"
-output: html_document
+output:
+    html_document:
+      theme: yeti
+      highlight: tango
+      center: true
 ---
 ***
 # {.tabset .tabset-fade}
@@ -15,16 +19,15 @@ output: html_document
 ![**The Let's Make a Deal game show (Image from wilsongrowthpartners.com)**](http://www.wilsongrowthpartners.com/wp-content/uploads/2017/10/Lets-Make-a-Deal.jpg)
 </center>
 
-The Monty Hall Problem is a brain teaser problem named after the host of *[Let's Make a Deal](https://en.wikipedia.org/wiki/Let%27s_Make_a_Deal)*, an American game show on which it originated. In the show, contestants were asked to pick among three doors; whatever's behind it is for them to win. Behind one is a brand new car, while the remaining two doors each conceal a goat. After the contestant's pick, Monty Hall would always open a door, revealing a goat behind it. The contestant is allowed to switch to the remaining unopened door. Should they do it? Let's try to answer that using probability.
-
-Before we start, why not give it a try first? [**Click here to play the Monty Hall game.**](https://math.andyou.com/tools/montyhallsimulator/montysim.htm)
+|          The Monty Hall Problem is a brain teaser problem named after the host of *[Let's Make a Deal](https://en.wikipedia.org/wiki/Let%27s_Make_a_Deal)*, an American game show on which it originated. In the show, contestants were asked to pick among three doors; whatever's behind it is for them to win. Behind one is a brand new car, while the remaining two doors each conceal a goat. After the contestant's pick, Monty Hall would always open a door, revealing a goat behind it. The contestant is allowed to switch to the remaining unopened door. Should they do it? Let's try to answer that using probability.
+|           Before we start, why not give it a try first? [**Click here to play the Monty Hall game.**](https://math.andyou.com/tools/montyhallsimulator/montysim.htm)
 
 ### **Solving the Monty Hall Problem**
 ***
-At first glance, it seems as though no matter what door you pick you'll only have a 1/3 chance of winning the car. Psychologically speaking, it will also hurt more to lose something we might think we had the "chance" of getting but not holding for it. It will be easier to admit that we just truly lost staying our ground than to lose and feel as if we missed our chance by not trusting ourselves. It might feel a bit counterintuitive, but probability says otherwise.
+|           At first glance, it seems as though no matter what door you pick you'll only have a 1/3 chance of winning the car. Psychologically speaking, it will also hurt more to lose something we might think we had the "chance" of getting but not holding for it. It will be easier to admit that we just truly lost staying our ground than to lose and feel as if we missed our chance by not trusting ourselves. It might feel a bit counterintuitive, but probability says otherwise.
 
 
 ***
 ## **Ultra Lotto Combinations**
-(insert content here)
+|           (insert content here)
 
