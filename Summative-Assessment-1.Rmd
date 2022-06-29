@@ -9,6 +9,7 @@ output:
       highlight: tango
       center: true
 ---
+
 ***
 # {.tabset .tabset-fade}
 
@@ -64,6 +65,14 @@ knitr::include_graphics("https://brilliant-staff-media.s3-us-west-2.amazonaws.co
 ## **Ultra Lotto Combinations**
 ### **Forcing an Ultra Lotto Win**
 ***
+
+<center>
+```{r echo=FALSE, out.width="80%"}
+knitr::include_graphics("https://www.schedules.ph/wp-content/uploads/2021/11/658-1.jpg")
+
+```
+
+
 |           One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or would it simply incur a massive loss on the bettor?
 |
 
@@ -75,5 +84,16 @@ $58C6 = 40,475,358$
 </center>
 |
 |           For Ultra Lotto 6/58, there are 40,475,358 possible combinations. Since 1 ticket equals 1 combination, and 1 ticket costs ₱20, the bettor would need to pay $40,475,358 * ₱20 = ₱809,507,160$, to cover all combinations. The grand prize, though, is just ₱50 million, which is less than the amount the bettor would wager. Therefore, placing a bet on every single possible combination in the Ultra Lotto 6/58 will result in a huge loss (worth ₱759,507,160) for the bettor.
+
+<center>
+```{r echo=FALSE, out.width="60%",}
+
+knitr::include_graphics("https://www.vmcdn.ca/f/files/shared/miscellaneous-stock-images/pickinglottonumbers.jpeg")
+
+```
+
 |
 |           Still, it is obviously possible to win the 50 million without spending that much money, it's just that the less you spend, the lower your chances. Nobody in their right mind would spend millions just for a small chance to win this lottery. Being something that isn't guaranteed or even likely, it just isn't worth it, no matter how much you spend. The way the lottery works is that it gets people's hopes up by offering a "large" cash prize, which in reality is quite small compared to the amount of cash needed to actually win. This is why most of the winners are simply just extremely lucky, as they usually win at a large gain since they are somehow able to win with just a few combinations. With how probability works, no matter how small the chance, someone out there is still going to be able to win eventually. 
+
+|
+|           If you are interested you can view the results from the most recent lotto from [**Click here to view the most recent results**](https://www.lottopcso.com/6-58-lotto-result/)
