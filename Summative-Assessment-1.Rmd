@@ -26,6 +26,20 @@ output:
 ***
 |           At first glance, it seems as though no matter what door you pick you'll only have a 1/3 chance of winning the car. Psychologically speaking, it will also hurt more to lose something we might think we had the "chance" of getting but not holding for it. It will be easier to admit that we just truly lost staying our ground than to lose and feel as if we missed our chance by not trusting ourselves. It might feel a bit counterintuitive, but probability says otherwise.
 
+|           Indeed, at first, there’s a 1/3 chance that the car is behind the door picked and a 2/3 chance that it’s behind one of the remaining doors. The key lies in the fact that the second door opened by the host will certainly have a goat behind it. That information collapses the 2/3 chance of the car being in either one of the doors to only the one remaining door.
+
+|           This concept becomes more evident when we try to add more doors; say we have a hundred. When you pick a random door, there will be a 99/100 chance that the car will be behind another door and a 1 in 99 chance that it will be in the door you picked. When Monty Hall reveals the 98 doors that contain goats, leaving only the door you picked and another one, would you stay with your pick? Most likely than not, the car will be in the remaining unopened door as it now solely possesses a 99/100 chance of containing the car given the information about the other doors.
+
+|           Another intuitive way to explain it is by listing all the possible outcomes and the most probable way to win. Initially, there’s a 1/3 chance of picking the right door. If you picked it, the correct move is to stay. But there’s a 2/3 chance that you’ll pick the wrong door, and the correct move will be to switch. Here’s the list of all the correct moves (stay or switch) based on where the car is:
+
+<center>
+|Winning Door|    The Best Move   |
+|------------|--------------------|
+|   Door 1   | Stay |Switch|Switch|
+|   Door 2   |Switch| Stay |Switch|
+|   Door 3   |Switch|Switch| Stay |
+
+</center>
 
 ***
 ## **Ultra Lotto Combinations**
