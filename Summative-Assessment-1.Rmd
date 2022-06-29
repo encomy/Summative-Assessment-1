@@ -29,5 +29,14 @@ output:
 
 ***
 ## **Ultra Lotto Combinations**
-|           (insert content here)
+### **Forcing an Ultra Lotto Win**
+***
+|           One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?
+
+|           First, we need to find the number of possible combinations in Ultra Lotto 6/58. We should use combination since there are 58 choices and we only need to select 6, and the order of the numbers does not matter.
+<center>
+$58C6 = 40,475,358$ 
+</center>
+|           For Ultra Lotto 6/58, there are 40,475,358 possible combinations. Since 1 ticket equals 1 combination, and 1 ticket costs ₱20, the bettor would need to pay $40,475,358 * ₱20 = ₱809,507,160$, to cover all combinations. The grand price, though, is just ₱50 million, which is less than the amount the bettor would wager. Therefore, placing a bet on every single possible combination in the Ultra Lotto 6/58 will result in a huge loss (worth ₱759,507,160) for the bettor.
+
 
