@@ -31,11 +31,9 @@ output:
 ## **Ultra Lotto Combinations**
 ### **Forcing an Ultra Lotto Win**
 ***
-<<<<<<< HEAD
 |           One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or would it simply incur a massive loss on the bettor?
-=======
+
 |           One of the most popular major games of PCSO is the Ultra Lotto 6/58. At ₱20 per ticket, how much would a bettor spend to cover all of the possible combinations. Would the grand prize of ₱50 million cover all the expenses or it would simply incur a massive loss on the bettor?
->>>>>>> 1320b3ac29f135089ae034165c423ea9591bceca
 
 |           First, we need to find the number of possible combinations in Ultra Lotto 6/58. We should use combination since there are 58 choices and we only need to select 6, and the order of the numbers does not matter.
 <center>
